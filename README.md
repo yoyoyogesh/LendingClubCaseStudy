@@ -1,8 +1,10 @@
 # LENDING CLUB CASE STUDY
 Strategy: Borrowers can easily access lower interest rate loans through a fast-online interface.
+
 Business Objective:
 ▪ Lending loans to ‘risky’ applicants is the largest source of financial loss or credit loss
 ▪ To identify the borrowers who default and cause the largest amount of loss to the lenders
+
 Goals of Data Analysis:
 ❑Identify the risky loan applications: Identify risky loan applicants using EDA (Exploratory Data Analysis), then
 such loans can be reduced thereby cutting down the amount of credit loss to the company.
